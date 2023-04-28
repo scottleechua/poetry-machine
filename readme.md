@@ -2,7 +2,7 @@
 
 *"An anthology is an act of civilization."*
 
-In this project, I critique how the print anthology (e.g., of "mid-century poetry") perpetuates a colonial, taxonomic way of recording history. I prototype the "Poetry Machine"---a machine learning model trained on the works to be archived---as a more dynamic, generative way to "anthologize" written works.
+In my essay entitled [*An Act of Civilization,*](https://github.com/scottleechua/poetry-machine/blob/main/an%20act%20of%20civilization.pdf) I critique how the print anthology (e.g., of "mid-century poetry") perpetuates a colonial, taxonomic way of recording history. I prototype the Poetry Machine---a machine learning model trained on the works to be archived---as a more dynamic, generative way to "anthologize" written works.
 
 I created this in 2019 as the final project for Lawrence Ypil's class on the history of Philippine literature in English. This was way, way before the explosion of generative AI, and especially ChatGPT and large language models that can do exactly what I was trying to hack together back then.
 
